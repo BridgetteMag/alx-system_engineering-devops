@@ -1,1 +1,4 @@
-Display current directory contents,including hidden files. Use long format.
+Display current directory,user and goup IDs numerically > README.md
+
+
+echo Display current directory,user and goup IDs numerically
