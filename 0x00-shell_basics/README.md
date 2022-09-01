@@ -1,4 +1,2 @@
-Display current directory,user and goup IDs numerically > README.md
-
-
-echo Display current directory,user and goup IDs numerically
+Create a script that creates a directory named my_first_directory in the /tmp/ directory > README.md
+echo Create a script that creates a directory named my_first_directory in the /tmp/ directory
