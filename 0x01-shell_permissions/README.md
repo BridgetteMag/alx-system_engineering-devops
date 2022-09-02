@@ -1,1 +1,1 @@
-Write a script that sets the permissions to the hello file as no permission at all to the owner,group or other users.
+Write a script that sets the mode of the file hello to:-rwxr-x-wx
