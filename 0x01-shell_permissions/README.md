@@ -1,1 +1,1 @@
-Write a script that sets the permission to the file hello as follows, no permission to owner, group,other users.
+Write a script that sets the permissions to the hello file as no permission at all to the owner,group or other users.
