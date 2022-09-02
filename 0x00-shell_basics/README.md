@@ -1,1 +1,1 @@
-Write a script that lists all files, even the ones with period character, which are normally hidden in the current directory and the parent working directory and the /boot directory in long format
+Write a script that lists all files, even ones with names beginning with a period character,which are noramlly hidden,in the current directory and the parent and working directory and the /boot directory,in long format.
