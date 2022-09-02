@@ -1,2 +1,1 @@
-Write a script that adds  execution permission to the owner, the group and the other users to the file hello > README.md
-echo Write a script that adds execution permission to the owner, the group and the other users to the file hello
+Write a script that sets the permission to the file hello as follows, no permission to owner, group,other users.
