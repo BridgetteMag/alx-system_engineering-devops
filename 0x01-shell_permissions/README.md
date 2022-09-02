@@ -1,1 +1,1 @@
-Write a script that changes the owner of the file to the user
+Write the script that changes the owner of the file hello to the user betty.
