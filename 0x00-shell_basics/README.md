@@ -1,1 +1,1 @@
-Write a script that lists all files, even ones with the names beginning with a period character, which are normally hidden in the current directory and the parent of the working directory and the /boot directory,in long format
+Write a script that prints the type of file named iamafile, which is in the /tmp directory when we run the script
