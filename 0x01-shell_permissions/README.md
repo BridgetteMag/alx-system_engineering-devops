@@ -1,2 +1,1 @@
-Write a script that sets the mode of the file hello to the same as ollehs mode, the file hello and olleh will be in the working directory > README.md
-echo Write a script that sets the mode of the file hello to the same as ollehs mode, the file hello and olleh will be in the working directory
+Create a script that adds execute permission to all subdirectories of the current directory for the owner,the group owner and all othe users. Regular files should not be changed.
