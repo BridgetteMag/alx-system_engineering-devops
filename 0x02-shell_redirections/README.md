@@ -1,1 +1,1 @@
-Create a script thatparses web servers logs TSV format as input and displays the 11 hosts of IP addresses which did the most requests. 
+Create a script that prints Hello World, followed by a new line in standard input. 
