@@ -1,1 +1,1 @@
-Write a script that printsevery other line from the input, starting with the first line.
+Write a shell script that adds the 2 numbers stored in the enviroment variables WATEr and STIR and prints the results.
