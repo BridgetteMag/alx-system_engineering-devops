@@ -1,1 +1,1 @@
-Create a script that prints hello user,where user is the current Linux user
+Create a script that prints hello user, where current user is the current Linux user
