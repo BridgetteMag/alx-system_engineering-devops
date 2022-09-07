@@ -1,1 +1,1 @@
-Create a script that lists all local and enviroment variables , and functions
+Create a script that creates a new local variable.
