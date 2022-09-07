@@ -1,1 +1,1 @@
-Write a script that encodes and decodes text using rot13 encryption.
+Write a script that printsevery other line from the input, starting with the first line.
